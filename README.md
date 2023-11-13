@@ -16,7 +16,7 @@ Wie steuert man in der Anwendung / Spiel?
 
 ## Authors
 Ahmad Mariam
-Decker Ursula Kassandra Juliane
+Decker Juliane
 Loch Sebastian 
 
 ## Credits
