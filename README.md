@@ -15,9 +15,9 @@ Eine allgemeine und längere Beschreibung des Projektes.
 Wie steuert man in der Anwendung / Spiel?
 
 ## Authors
-Ahmad Mariam
-Decker Juliane
-Loch Sebastian 
+* Ahmad Mariam
+* Decker Juliane
+* Loch Sebastian
 
 ## Credits
 This app/game was created at the Visualization and Interaction in Digital Media (VIS) program of HS Ansbach. 
